@@ -58,7 +58,7 @@ La función debe llamarse prod_per_county(tipo,pais,anio) deberia devolver el ti
 @app.get('/prod_per_county/{tipo}/{pais}/{anio}')
 def prod_per_county(tipo: str, pais: str, anio: int):
     
-    datos_filtrados = datos.loc[(datos['country'].str.contains(pais)) & (datos['release_year'] == anio) & (datos['type'] >= tipo)]
+    datos_filtrados = datos.loc[(datos['country'].str.contains(pais)) & (datos['release_year'] == anio) & (datos['type'] == tipo)]
 
 
     respuesta=datos_filtrados.shape[0]
