@@ -1,1 +1,98 @@
-# Test para API
+- **Esquema**:
+  - **Backlog**:
+    - [Pair Code Review](https://docs.google.com/document/d/1cYA9c23JNA4o2NagqsfIuY8YFUPSfn0c0BRmgN5SY2E/edit?usp=drivesdk)
+    - [Automatizacion de Planillas](https://docs.google.com/document/d/1T5CkRkCcKlauDW0l9p7nvoz5Ej3C1ZhaX4cEeIAIvlY/edit?usp=drivesdk)
+    - [PF- Introducción Servicios Cloud](https://docs.google.com/document/d/1GnDhvS9Pr7DQbgaD5O614Ykr4W1_HkADh8cOtNL__xw/edit?usp=drivesdk)
+    - [Quiz auto-evaluación pre-PI/PF - FAR](https://docs.google.com/document/d/1y7HlsCKWXPPCfTCRq49TZkc1zRyrxftRI1pNK5TeYbE/edit?usp=drivesdk)
+    - [PF PYME - Marcos](https://docs.google.com/document/d/1LT48LEGA87T-cGWfr0CGoE8iP19zJ9QNjTmVkGD29nA/edit?usp=drivesdk)
+    - [0. Plantilla presentación de ideas](https://docs.google.com/document/d/1yF3Hvzj3v3-pWFZSEkEi-zpvTQMuEcxpzTEa0hp2P8c/edit?usp=drivesdk)
+    - [Anexo enlace de Ideas](https://docs.google.com/spreadsheets/d/1BLRw2FYgmxTh5CKKRjQ5kgXrtmlZKafQJKwN1pzKbVo/edit?usp=drivesdk)
+    - **Squad Video Tutoriales**:
+      - [Presentación](https://docs.google.com/document/d/1Cv-F2O0qxNNehu6iKkdfaevjw1pbnn5QMPcWn0nqwDU/edit?usp=drivesdk)
+      - **KPI's**:
+        - [KPI's](https://docs.google.com/document/d/1Z_KxE0Kp729x9gJDscN1mWcr2-hhMPVGgYlGRAPzMB4/edit?usp=drivesdk)
+  - **Data Activity**:
+    - **Cohortes**:
+      - **Data10**:
+      - **Data09**:
+      - **Data08**:
+      - **Data07**:
+      - **Data06**:
+      - **Data05**:
+      - **Data04**:
+      - **Data03**:
+      - **Data02**:
+      - **Data01**:
+      - **Cohortes sheets (OLD, usa DATA LABS Share Drive)**:
+    - **Squads_OKRs**:
+  - **Data Reference**:
+    - **Recursos de inspiracion para nuevo contenido**:
+      - [coleccion de ejercicios basicos.py](https://drive.google.com/file/d/1qYL7dIaztIsKHvQFUu307J37LN3-blgu/view?usp=drivesdk)
+      - [Paginas con ejercicios basicos de python](https://docs.google.com/document/d/1NwEYIDTv6Wa8SHisF2Zw7QHuMDjj6YxrUfvCmgt6lVk/edit?usp=drivesdk)
+      - [❤️ Top Google Interview Questions on Leetcode ❤️.pdf](https://drive.google.com/file/d/1M90LeaUR9gp0aRFawQICCkr7N2KnhYYb/view?usp=drivesdk)
+      - **TIPs (old)**:
+      - **interview questions (LinkedIn) **:
+        - [Estadistica_t3-alumnos.pdf](https://drive.google.com/file/d/1gJjO-OsubNJLlSAMo0aFiLZcS8nBwxwX/view?usp=drivesdk)
+        - [DS.pdf](https://drive.google.com/file/d/11NjpCvLcgk3m-O6_2sCjGF1ye0qCZcs3/view?usp=drivesdk)
+        - [SQL_Teoria.pdf](https://drive.google.com/file/d/1ZHtxrSiFRRXOMlf3joJNZ0nnASiYC_Th/view?usp=drivesdk)
+        - [120 DS Questions.pdf](https://drive.google.com/file/d/1eYapvACT3RTgNdwgayhyGlE9h0wi4jzd/view?usp=drivesdk)
+        - [DataScience_Q&A.pdf](https://drive.google.com/file/d/1BX-F_s8alttUBHryCx3oydrArRWjmUW9/view?usp=drivesdk)
+        - [BigData_DataEngineer.pdf](https://drive.google.com/file/d/18YVNDrBVspOLK-NWIRTzTYIOjYO_tjAb/view?usp=drivesdk)
+        - [Frequently Asked Interview Questions.pdf](https://drive.google.com/file/d/1SRhQFRKjSctKVkewC4ZQpUGimFTs7m-7/view?usp=drivesdk)
+        - [EjerciciosSQL.pdf](https://drive.google.com/file/d/1MwNjJXeqvHiT_UwLT4rqWyNNtoKK5zwf/view?usp=drivesdk)
+        - [ejercicios resueltos tema 6[1].pdf](https://drive.google.com/file/d/1-ExqKj9cULEWVZ24W14MVjb1Xq0Xjxoi/view?usp=drivesdk)
+        - [Top 40 Python Q&A.pdf](https://drive.google.com/file/d/1ZLjd1aq7QG3y58EqwtzsenBLYyVDdsaQ/view?usp=drivesdk)
+        - [SQL Notes and Codes.pdf](https://drive.google.com/file/d/1ThRDdLyqa98yaD2iknrIdcpf6XrfJfe1/view?usp=drivesdk)
+        - [SQL most asked interview questions.pdf](https://drive.google.com/file/d/1oR7Gz4gtMc62lx40abMzxtlWKQA1Xlnr/view?usp=drivesdk)
+        - [SQL Interview Questions and Answers.pdf](https://drive.google.com/file/d/15RPPf4TFI_LUTp3bg3eQyURZb27ph6i7/view?usp=drivesdk)
+        - [Coding Interview Preparation.pdf](https://drive.google.com/file/d/18BE8G9BeI3BO6pHFWDPlaFunVMJzKWUc/view?usp=drivesdk)
+        - [64 Toughest Interview Questions and answers.pdf](https://drive.google.com/file/d/1XpFSWY_brPtt6OF0RquKIMPD0JQgdBMQ/view?usp=drivesdk)
+        - [41 Essential Machine Learning Questions.pdf](https://drive.google.com/file/d/1ESWOdTYuUeUGMP3AhPxSlxioPchjU0Jr/view?usp=drivesdk)
+        - [Entrevista_Tecnica_BI_-_GCBA.pptx](https://docs.google.com/presentation/d/13XuZBKQpN7i1QHZs1wc0oqS4d7luUpEj/edit?usp=drivesdk&ouid=117851511220783012657&rtpof=true&sd=true)
+    - **Templates (Ready to Use) (OLD, usa DATA LABS Share Drive)**:
+      - **Workshops**:
+      - **Templates Presentaciones (OLD, usa DATA LABS Shared Drive)**:
+        - [KO Labs  (OLD, usa DATA LABS Shared Drive)](https://docs.google.com/presentation/d/19hps485s8lbe60A4k2hnol_bloxH7MqYWnmMYbfiH3Q/edit?usp=drivesdk)
+        - [TIPS  (OLD, usa DATA LABS Shared Drive)](https://docs.google.com/presentation/d/11H4C0IpomxmgaMwFxL9jjfM6ITLhzCqadQdNhu5bBT4/edit?usp=drivesdk)
+        - [Proyecto Grupal.pptx  (OLD, usa DATA LABS Shared Drive)](https://docs.google.com/presentation/d/1Bj_ll-UJIwGAa9XAyy0GcJ_xr_daTpVC/edit?usp=drivesdk&ouid=117851511220783012657&rtpof=true&sd=true)
+        - [PI02 - Data Analytics  (OLD, usa DATA LABS Shared Drive)](https://docs.google.com/presentation/d/1uXq00tSo4E8FcfSuaalQZ3A01HZI_M67iiwwsLVqr_Q/edit?usp=drivesdk)
+        - [PI01 - MLOps  (OLD, usa DATA LABS Shared Drive)](https://docs.google.com/presentation/d/1Za01B0IL0iAflfmNGubxQiMidIruQJx_keK6go8G5vc/edit?usp=drivesdk)
+        - [Data Calendar  (OLD, usa DATA LABS Shared Drive)](https://docs.google.com/presentation/d/19B_8zzSdmcylkvHcUfUHIuBf5QEGhEzZjs3vYNwKqi4/edit?usp=drivesdk)
+      - **Template Planillas PF**:
+        - [Template Planilla Grupos PF Data](https://docs.google.com/spreadsheets/d/1aIbuAyc1D16l6ZfkRB-ksjIuEC39zHE5DBPVDDsk5kE/edit?usp=drivesdk)
+        - [Template planilla individual de grupo PF](https://docs.google.com/spreadsheets/d/1AxHGvyGDlZ1QBcjRV3il5yYuUM9J0uDUeYKw01Z6jFo/edit?usp=drivesdk)
+    - **Managment**:
+      - [Lista de weeklys labs](https://docs.google.com/spreadsheets/d/1KSN6jWQ9_bpxDdMxOPTpAkL36b8WatIl9Qa2iYea3I0/edit?usp=drivesdk)
+      - [Squads](https://docs.google.com/spreadsheets/d/1qrWei15TP5CT7Hnf01r7qZziZQQMtMdYozaaMhOoygI/edit?usp=drivesdk)
+      - [Follow Up](https://docs.google.com/spreadsheets/d/1wWAxmMXnJmMf07kUncQ-o3zKlBJhFs-6l0aNwsEc184/edit?usp=drivesdk)
+      - [Scrum Temlpate Data Labs](https://docs.google.com/spreadsheets/d/1WUVn0nLKzRFeSm7keV6u8fEZbEIWQYms_dfPfWfN2Kk/edit?usp=drivesdk)
+      - [Gantt - Recursos Labs](https://docs.google.com/spreadsheets/d/1-j-5hxTNcxIbPvtsiXohNUT6cu3sMKnDANEZRA2wSQQ/edit?usp=drivesdk)
+      - [Meet Squads 26/09](https://docs.google.com/document/d/1ThkYyVM_CeadFFiqk5fUMa1HGo8kkJRcChNC79U_828/edit?usp=drivesdk)
+      - **Back UP Incidencias 1/2/23**:
+        - [Jira.doc](https://docs.google.com/document/d/1LMjRzA4FgAOO3p1m6sT42QLDlYgPOgF4/edit?usp=drivesdk&ouid=117851511220783012657&rtpof=true&sd=true)
+        - [Jira.html](https://drive.google.com/file/d/1f5sZrHsrRZUoFIypDlO_BiWnjHobuioj/view?usp=drivesdk)
+        - [Jira.csv](https://drive.google.com/file/d/1oprNU9OROTX9QvkLuQ8EbHa01-OtdMQl/view?usp=drivesdk)
+      - **Retros**:
+        - [Accionables Retros](https://docs.google.com/document/d/1lJ0A524mn6riD6y5mJUN3zYXLbmQXnDmsKcQRqGTKAQ/edit?usp=drivesdk)
+      - **Weeklys Jueves**:
+        - [Resumen 19/1.docx](https://docs.google.com/document/d/1gj7jcYEgDRqLGHFkMcK-p_ygAA7pQ6AQ/edit?usp=drivesdk&ouid=117851511220783012657&rtpof=true&sd=true)
+      - **Weeklys Lunes**:
+        - [Weekly 10/2/23.docx](https://docs.google.com/document/d/1kM48tuDUwAXYYZtxFYhOhGH4hxlA3X_m/edit?usp=drivesdk&ouid=117851511220783012657&rtpof=true&sd=true)
+    - **Procedimientos_Estandar**:
+      - [Capacitación Jira](https://docs.google.com/document/d/1N06zDXhrRfzDCvXkS9gzzOm3m7LfCPiuQEeAD6d4bRo/edit?usp=drivesdk)
+      - [Jira Docs](https://docs.google.com/document/d/1hADGttskB2GUja4FeUdzy5yDrnXYyiFC8DXwvsYk16g/edit?usp=drivesdk)
+      - [Jira FAQ](https://docs.google.com/document/d/1dBta-cArtN6RWyDryDDY7abkOeYJGIcOmvAJbAuqWyo/edit?usp=drivesdk)
+      - **Proyectos**:
+        - [Hitos PF](https://docs.google.com/document/d/13yU2EQ6eCFdESCwuP8pINDENgTCQCFEzSmVKqX98OL8/edit?usp=drivesdk)
+        - [Estandarización PF](https://docs.google.com/document/d/1i7UlKpXYOeABnwjf7-_oCOGj5-Ky7Tl-YvPUppu0Iww/edit?usp=drivesdk)
+        - [WIP - Hitos PF](https://docs.google.com/document/d/1N9he4ZYLSzI-Xsq_uDVMZLhdtRzPBeArNVfzoFpng3I/edit?usp=drivesdk)
+      - **Rubricas de evaluacion**:
+      - **Ops-Labs**:
+        - [Disclaimers PF 2/1/23](https://docs.google.com/document/d/1k_uxvrMwVKjP_q1V_np9HmdtPTwjfL77uXJy2jZqnDE/edit?usp=drivesdk)
+        - [Documentación: Proyecto Individual D.S](https://docs.google.com/document/d/1vjsp4BffOvxFGOrYaw9WeruK7Wk5DQ4bHxgSwJhvugE/edit?usp=drivesdk)
+        - [Documentación: TIPs](https://docs.google.com/document/d/1hC4LMOR7uBrKJe6PAqDGL_HQ32zh0DlwHqHhg4rxW1c/edit?usp=drivesdk)
+        - [Documentación PF](https://docs.google.com/document/d/1-Hkzkc6ufNxvzhwAWoW1t4_huyGbSF9yZv9VcE76sJU/edit?usp=drivesdk)
+        - [Ideas](https://docs.google.com/document/d/1Pv2-l3ITBWBcOVtJ8S4-RuiDMJTf1O49Wficm-uUuyo/edit?usp=drivesdk)
+      - **TIPs**:
+        - [Procedimiento ante la ausencia de mi pareja](https://docs.google.com/document/d/1TpmwXCpz4lA8PsAg4TLYuIX_jfHxhp8iKTORPjZ4eas/edit?usp=drivesdk)
+        - [Esquema? TIPs](https://docs.google.com/document/d/16X32amnjoA_8YGYgVGpJ6nqllqlJZ_X37jggRi2mAxw/edit?usp=drivesdk)
